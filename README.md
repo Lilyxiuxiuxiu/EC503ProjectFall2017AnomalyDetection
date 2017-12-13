@@ -30,7 +30,7 @@ We used OCSVM, K-NN and Global K-NN on all five datasets.
 - [K-NN](https://github.com/Lilyxiuxiuxiu/EC503ProjectFall2017AnomalyDetection/tree/master/K-NN) and [Global K-NN](https://github.com/Lilyxiuxiuxiu/EC503ProjectFall2017AnomalyDetection/tree/master/Global%20K-NN) can be run directly with the corresponding datasets.
 - For [OCSVM](https://github.com/Lilyxiuxiuxiu/EC503ProjectFall2017AnomalyDetection/tree/master/OCSVM), you need to install [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) on MATLAB
 
-## results
+## Results
 <img align="center" src=results.png>
 
 
